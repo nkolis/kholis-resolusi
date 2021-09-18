@@ -1,0 +1,6 @@
+KHOLIS Resolusi
+
+- Belajar pemrograman 2 jam per hari
+- Belajar PHP
+- Belajar Framework codeignter
+- Membuat project aplikasi 
