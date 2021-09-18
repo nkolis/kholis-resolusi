@@ -1,6 +1,8 @@
 Rencana Belajar
 
 - Belajar PHP
+ * Belajar Framwork Codeigneter
 - Belajar Javacript
 - Belajar CSS
 - Belajar Framework
+- Belajar Struktur Data
