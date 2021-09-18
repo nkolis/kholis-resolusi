@@ -1,6 +1,7 @@
 Rencana Belajar
 
 - Belajar PHP
+  * Belajar Framework Laravel
 - Belajar Javacript
 - Belajar CSS
-- Belajar Framework
+- Belajar Struktur Data
