@@ -3,6 +3,6 @@ Rencana Belajar
 - Belajar PHP
  * Belajar Framework Laravel
  * Belajar Framwork Codeigneter
-- Belajar Javacript
+- Belajar Javascript
 - Belajar CSS
 - Belajar Struktur Data
