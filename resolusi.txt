@@ -4,3 +4,4 @@ KHOLIS Resolusi
 - Belajar PHP
 - Belajar Framework codeignter
 - Membuat project aplikasi 
+- Belajar Framework Javascript
